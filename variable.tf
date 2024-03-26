@@ -34,3 +34,5 @@ variable "provider_location" {
   type    = string
   default = "us-central1"
 }
+
+##
